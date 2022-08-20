@@ -1,4 +1,4 @@
-![Wri ITAMAESAN FRAMEWORK NEXTJ TYPESCRIPT SushiJS](https://raw.githubusercontent.com/itamaesanorg/wri/main/public/static/og.png)
+![Wri, you will be able in just seconds to deploy a magic site to present your projects to clients or components to other devs!, like never before on npm by ITAMAESANORG from Tokyo, Japan](https://user-images.githubusercontent.com/5947268/185769316-70226e9b-2308-4595-8569-a6ffbb2ede73.png)
 ![Wri, you will be able in just seconds to deploy a magic site to present your projects to clients or components to other devs!, like never before on npm by ITAMAESANORG from Tokyo, Japan](https://user-images.githubusercontent.com/5947268/185769259-28077a11-fe76-4289-a3db-1989a61af73c.png)
 
 
