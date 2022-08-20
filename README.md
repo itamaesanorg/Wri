@@ -2,9 +2,9 @@
 ![Wri ITAMAESAN FRAMEWORK](https://raw.githubusercontent.com/itamaesanorg/Wri/main/public/static/Wri%20is%20a%20Website%20Presenter%20Components%20or%20Projects%20site.png
 )
 
-# Wri is a Website Presenter Components or Projects site.
+# Wri, you will be able in just seconds to deploy a magic site to present your projects to clients or components to other devs!, like never before on npm by ITAMAESANORG from Tokyo, Japan.
 
-Enjoy the moment with momento, the best way to admire and show your components or projects like never before to clients, a standard diamond in the future of the industry, it is a showcase component or project site generator, install & play.
+💎 Wri is a standard diamond in the future of the industry websites, with Wri you will be able in just seconds to deploy a magic site to present your projects!, it is a showcase component or project site generator, install & play.
 
 ✨ We are proud to announce, ITAMAESAN, a project to help developers, exclusive working with Open Source MIT License on our code.
 
