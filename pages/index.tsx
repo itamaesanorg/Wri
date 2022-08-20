@@ -1,12 +1,9 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { useEffect, useState } from 'react'
 
-import packageJSON from '/package.json'
-
 import Container from 'components/Container'
-import Menu from 'components/YourComponent'
-import cn from 'lib/classNames'
-
-const ELEMENTS = 6
+import YourComponent from 'components/YourComponent'
+import packageJSON from 'package.json'
 
 export default function Home() {
   const [isServer, setIsServer] = useState(true)
@@ -21,7 +18,7 @@ export default function Home() {
       <div className='py-16 relative inset-0 flex flex-col items-center justify-center gap-4'>
         <VersionBadge />
         <h1 className='py-8 font-bold tracking-tighter text-center text-7xl'>
-        💎 Wri
+          💎 Wri
         </h1>
         <p className='py-4 text-xl text-center text-tertiary'>
           👆 Change title and replace this with a beautiful description👇
@@ -30,7 +27,7 @@ export default function Home() {
           <InstallButton />
           <GitHubButton />
         </div>
-        <Menu />
+        <YourComponent />
         <div className='absolute w-[300px] h-[500px] md:w-[800px] md:h-[700px] mt-64 opacity-[12%] backdrop-blur-3xl blur-3xl pointer-events-none rounded-[15rem]' />
       </div>
       <Footer />
