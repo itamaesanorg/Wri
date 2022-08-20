@@ -13,7 +13,7 @@ export default function Container(props: any) {
     description:
       '💎 Wri, the best way to admire and show your components or projects like never before to clients, a standard diamond in the future of the industry, it is a showcase component or project site generator, install & play.',
     image:
-      'https://user-images.githubusercontent.com/5947268/185643867-81854585-1f24-470e-9836-2a8b9c62c8dd.png',
+      'https://raw.githubusercontent.com/itamaesanorg/Wri/main/public/static/og.png',
     type: 'website',
     ...customMeta,
   }
