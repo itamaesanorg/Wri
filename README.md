@@ -1,6 +1,6 @@
-![SUSHIJS ITAMAESAN FRAMEWORK NEXTJ TYPESCRIPT TAILWINDCSS PRISMA FRAMER GITHUB WALLPAPER](https://user-images.githubusercontent.com/5947268/185244272-494ac434-ef33-413b-a530-51a97b6d97bf.png)
+![Wri ITAMAESAN FRAMEWORK NEXTJ TYPESCRIPT SushiJS](https://raw.githubusercontent.com/itamaesanorg/wri/main/public/static/og.png)
 
-# Momento or SushiJS Website Presenter
+# Wri is a Website Presenter Components or Projects site.
 
 Enjoy the moment with momento, the best way to admire and show your components or projects like never before to clients, a standard diamond in the future of the industry, it is a showcase component or project site generator, install & play.
 
