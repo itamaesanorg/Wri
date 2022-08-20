@@ -31,7 +31,7 @@ Enjoy the moment with momento, the best way to admire and show your components o
 ## Lgiht Structure
 
     +---components
-    ▒   +---01 Sushisho
+    ▒   +---YourComponent
     ▒   +---Container
     +---lib
     +---pages
