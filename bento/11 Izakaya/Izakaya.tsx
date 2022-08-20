@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 
-import { motion } from 'framer-motion'
 import { useTheme } from 'next-themes'
 import { useRouter } from 'next/dist/client/router'
 import Link from 'next/link'
@@ -21,7 +20,7 @@ export default function Container(props: any) {
   return (
     <>
         <div className='flex flex-row items-center space-x-4'>
-          <motion.button
+          <button
             animate={{ scale: 0.75 }}
             aria-label='Toggle Dark Mode'
             type='button'
@@ -55,7 +54,7 @@ export default function Container(props: any) {
                 )}
               </svg>
             )}
-          </motion.button>
+          </button>
         </div>
     </>
   )
