@@ -1,6 +1,6 @@
 {
   "name": "wri",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "wri, the best way to admire and show your components or projects like never before to clients, a standard diamond in the future of the industry, it is a showcase component or project site generator, install & play.",
   "sideEffects": false,
   "scripts": {
