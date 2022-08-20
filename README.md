@@ -1,4 +1,6 @@
 ![Wri ITAMAESAN FRAMEWORK NEXTJ TYPESCRIPT SushiJS](https://raw.githubusercontent.com/itamaesanorg/wri/main/public/static/og.png)
+![Wri ITAMAESAN FRAMEWORK](https://raw.githubusercontent.com/itamaesanorg/Wri/main/public/static/Wri%20is%20a%20Website%20Presenter%20Components%20or%20Projects%20site.png
+)
 
 # Wri is a Website Presenter Components or Projects site.
 
