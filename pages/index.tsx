@@ -28,7 +28,6 @@ export default function Home() {
           <InstallButton />
           <GitHubButton />
           <Izakaya />
-
         </div>
         <YourComponent />
         <div className='absolute w-[300px] h-[500px] md:w-[800px] md:h-[700px] mt-64 opacity-[12%] backdrop-blur-3xl blur-3xl pointer-events-none rounded-[15rem]' />
