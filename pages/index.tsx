@@ -1,6 +1,10 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import { useEffect, useState } from 'react'
 
+import motion from 'framer-motion'
+
+import Izakaya from 'components/Izakaya'
+
 import Container from 'components/Container'
 import YourComponent from 'components/YourComponent'
 import packageJSON from 'package.json'
@@ -24,6 +28,7 @@ export default function Home() {
           👆 Change title and replace this with a beautiful description👇
         </p>
         <div className='py-2 flex flex-col items-center justify-center gap-4 mb-12 md:flex-row'>
+          <Izakaya />
           <InstallButton />
           <GitHubButton />
         </div>

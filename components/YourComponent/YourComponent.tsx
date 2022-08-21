@@ -1,10 +1,13 @@
 /* eslint-disable prettier/prettier */
+
+import { motion } from 'framer-motion'
+
 export default function YourComponent() {
   return (
-    <div className='hidden xl:inline'>
-      <div>
-        <a>Place your ✒️ Component here</a>
-      </div>
-    </div>
+    <motion.div
+    animate={{ y: 20 }}
+    transition={{ duration: 0.5, ease: 'easeInOut' }}>
+    Place your ✒️ Component here
+    </motion.div>
   )
 }

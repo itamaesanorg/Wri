@@ -10,6 +10,7 @@ specifiers:
   eslint-config-next: 12.2.3
   eslint-config-prettier: ^8.5.0
   eslint-plugin-prettier: ^4.2.1
+  framer-motion: ^7.2.0
   meshgrad: 0.0.1
   next: ^12.2.3
   next-themes: ^0.2.0
@@ -18,18 +19,17 @@ specifiers:
   react: ^18.2.0
   react-dom: ^18.2.0
   react-use: ^17.4.0
-  sushis: ^2.0.1
   tailwindcss: ^3.1.6
   typescript: ^4.7.4
 
 dependencies:
   eslint-config-prettier: 8.5.0_eslint@8.21.0
+  framer-motion: 7.2.0_biqbaboplfbrettd7655fr4n2y
   next: 12.2.4_biqbaboplfbrettd7655fr4n2y
   next-themes: 0.2.0_vyccxgqxcnj5vudpssiumaxlme
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   react-use: 17.4.0_biqbaboplfbrettd7655fr4n2y
-  sushis: 2.0.1_eslint@8.21.0
 
 devDependencies:
   '@types/node': 18.6.4
@@ -302,12 +302,6 @@ packages:
   /@rushstack/eslint-patch/1.1.4:
     resolution: {integrity: sha512-LwzQKA4vzIct1zNZzBmRKI9QuNpLgTQMEjsQLf3BXuGYb3QPTP4Yjf6mkdX+X1mYttZ808QpOwAzZjv28kq7DA==}
     dev: true
-
-  /@segment/in-eu/0.3.0:
-    resolution: {integrity: sha512-np6ves6pLi1nkKjQHXk3FBQJmu+C7Gs6n3UYM0TzHsIdZOz1Cfu636cuc+iidBRfE6S+3w0W8AD7F4hpicuUnw==}
-    dependencies:
-      jstz: 2.1.1
-    dev: false
 
   /@swc/helpers/0.4.3:
     resolution: {integrity: sha512-6JrF+fdUK2zbGpJIlN7G3v966PQjyx/dPt1T9km2wj+EUBqgrxCk3uX4Kct16MIm9gGxfKRcfax2hVf5jvlTzA==}
@@ -1611,11 +1605,6 @@ packages:
       minimist: 1.2.6
     dev: true
 
-  /jstz/2.1.1:
-    resolution: {integrity: sha512-8hfl5RD6P7rEeIbzStBz3h4f+BQHfq/ABtoU6gXKQv5OcZhnmrIpG7e1pYaZ8hS9e0mp+bxUj08fnDUbKctYyA==}
-    engines: {node: '>=0.10'}
-    dev: false
-
   /jsx-ast-utils/3.3.2:
     resolution: {integrity: sha512-4ZCADZHRkno244xlNnn4AOG6sRQ7iBZ5BbgZ4vW4y5IZw7cVUD1PPeblm1xx/nfmMxPdt/LHsXZW8z/j58+l9Q==}
     engines: {node: '>=4.0'}
@@ -2386,26 +2375,6 @@ packages:
     resolution: {integrity: sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==}
     engines: {node: '>= 0.4'}
     dev: true
-
-  /sushis/2.0.1_eslint@8.21.0:
-    resolution: {integrity: sha512-FnYxfA3XW/mIGOhM73bMYRxpv1gmGz3oUrZEzZeG/AM2Q6ZSBvti+T98IZbuMNv2GG3upI7T2BEEoenjO3U+6w==}
-    dependencies:
-      '@segment/in-eu': 0.3.0
-      eslint-config-prettier: 8.5.0_eslint@8.21.0
-      framer-motion: 7.2.0_biqbaboplfbrettd7655fr4n2y
-      next: 12.2.4_biqbaboplfbrettd7655fr4n2y
-      next-themes: 0.2.0_vyccxgqxcnj5vudpssiumaxlme
-      react: 18.2.0
-      react-dom: 18.2.0_react@18.2.0
-      react-use: 17.4.0_biqbaboplfbrettd7655fr4n2y
-    transitivePeerDependencies:
-      - '@babel/core'
-      - babel-plugin-macros
-      - eslint
-      - fibers
-      - node-sass
-      - sass
-    dev: false
 
   /tailwindcss/3.1.8_postcss@8.4.14:
     resolution: {integrity: sha512-YSneUCZSFDYMwk+TGq8qYFdCA3yfBRdBlS7txSq0LUmzyeqRe3a8fBQzbz9M3WS/iFT4BNf/nmw9mEzrnSaC0g==}
