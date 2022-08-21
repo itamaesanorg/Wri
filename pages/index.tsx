@@ -3,9 +3,8 @@ import { useEffect, useState } from 'react'
 
 import motion from 'framer-motion'
 
-import Izakaya from 'components/Izakaya'
-
 import Container from 'components/Container'
+import Izakaya from 'components/Izakaya'
 import YourComponent from 'components/YourComponent'
 import packageJSON from 'package.json'
 
