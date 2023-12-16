@@ -74,7 +74,7 @@
 ## Getting started
 
     🐣 Twitter: https://twitter.com/itamaesanorg
-    🌐 Homepage: https://itamaesan.org redirects to https://SushiJS.com
+    🌐 Homepage: https://itamaesan.org redirects to https://itamaesan.org
 
 ## License
 
